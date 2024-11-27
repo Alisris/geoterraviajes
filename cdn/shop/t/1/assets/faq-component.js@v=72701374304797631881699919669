@@ -1,0 +1,2 @@
+document.addEventListener("DOMContentLoaded",event=>{document.querySelectorAll(".faq_question").forEach(function(item){item.addEventListener("click",function(){item.nextElementSibling.classList.toggle("visible"),item.classList.toggle("visible")})})});
+//# sourceMappingURL=/cdn/shop/t/1/assets/faq-component.js.map?v=72701374304797631881699919669
